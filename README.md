@@ -1,6 +1,7 @@
 # doctor_template_no_3
 
 A new Flutter project.
+![splashScreen](https://user-images.githubusercontent.com/23151871/234486043-9df07ae9-a22b-4f1a-ab21-6cf474228227.jpg)
 
 ## Getting Started
 
